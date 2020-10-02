@@ -1,0 +1,60 @@
+-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintmap-key-temporalcolumn	post-loadcascade-removefield-result
+attributesentityinheritancecascade-allassociation-overridemap-key-class
+enumeratedpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manyexclude-superclass-listenersdiscriminator-columndescription	lock-mode
+join-tablecascade-refresh
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddable‚ddentity-mappingsnamed-stored-procedure-querymapped-superclasspersistence-unit-defaultscatalogconvertnamed-querycascade-mergeidcolumn-resulttemporalmap-key-attribute-overridepersistence-unit-metadatadiscriminator-valueindexsecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintnamed-entity-graphmap-key-temporalcolumnmap-key-convert	post-loadcascade-removesubgraphfield-result
+attributesforeign-keyentityinverse-foreign-key	converterinheritancesubclass-subgraphresult-classcascade-allassociation-overrideconstructor-resultmap-key-class
+enumeratedresult-set-mappingpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manynamed-attribute-nodeexclude-superclass-listenersmap-key-foreign-keydiscriminator-columndescription	lock-mode
+join-tablecascade-refresh	parameter
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddableprimary-key-foreign-key‚ddentity-mappingsnamed-stored-procedure-querymapped-superclasspersistence-unit-defaultscatalogconvertnamed-querycascade-mergeidcolumn-resulttemporalmap-key-attribute-overridepersistence-unit-metadatadiscriminator-valueindexsecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintnamed-entity-graphmap-key-temporalcolumnmap-key-convert	post-loadcascade-removesubgraphfield-result
+attributesforeign-keyentityinverse-foreign-key	converterinheritancesubclass-subgraphresult-classcascade-allassociation-overrideconstructor-resultmap-key-class
+enumeratedresult-set-mappingpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manynamed-attribute-nodeexclude-superclass-listenersmap-key-foreign-keydiscriminator-columndescription	lock-mode
+join-tablecascade-refresh	parameter
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddableprimary-key-foreign-key¡GGentity-mappingsmapped-superclasspersistence-unit-defaultscatalognamed-querycascade-mergeidcolumn-resulttemporalpersistence-unit-metadatadiscriminator-valuesecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerspost-removelobschemaaccessattribute-overridepre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintcolumn	post-loadcascade-removefield-result
+attributesentityinheritancecascade-allassociation-override
+enumeratedpost-persistpackagemap-keygenerated-valuecascadequeryorder-bypost-updatehintentity-resultbasicone-to-manyexclude-superclass-listenersdiscriminator-columndescription
+join-tablecascade-refresh
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneprimary-key-join-columnentity-listenersql-result-set-mappingexclude-default-listenersid-classinverse-join-column
+embeddable—SSentity-mappingsmapped-superclasspersistence-unit-defaultscatalognamed-querycascade-mergeidcolumn-resulttemporalmap-key-attribute-overridepersistence-unit-metadatadiscriminator-valuesecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintmap-key-temporalcolumn	post-loadcascade-removefield-result
+attributesentityinheritancecascade-allassociation-overridemap-key-class
+enumeratedpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manyexclude-superclass-listenersdiscriminator-columndescription	lock-mode
+join-tablecascade-refresh
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddable‚ddentity-mappingsnamed-stored-procedure-querymapped-superclasspersistence-unit-defaultscatalogconvertnamed-querycascade-mergeidcolumn-resulttemporalmap-key-attribute-overridepersistence-unit-metadatadiscriminator-valueindexsecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintnamed-entity-graphmap-key-temporalcolumnmap-key-convert	post-loadcascade-removesubgraphfield-result
+attributesforeign-keyentityinverse-foreign-key	converterinheritancesubclass-subgraphresult-classcascade-allassociation-overrideconstructor-resultmap-key-class
+enumeratedresult-set-mappingpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manynamed-attribute-nodeexclude-superclass-listenersmap-key-foreign-keydiscriminator-columndescription	lock-mode
+join-tablecascade-refresh	parameter
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddableprimary-key-foreign-key‚ddentity-mappingsnamed-stored-procedure-querymapped-superclasspersistence-unit-defaultscatalogconvertnamed-querycascade-mergeidcolumn-resulttemporalmap-key-attribute-overridepersistence-unit-metadatadiscriminator-valueindexsecondary-tableversionsequence-generatormany-to-manynamed-native-query	transiententity-listenerscascade-detachpost-removeloborder-columnschemamap-key-columnaccessmap-key-join-columnattribute-overridedelimited-identifierspre-persistjoin-columncascade-persisttable-generatorembeddedtableunique-constraintnamed-entity-graphmap-key-temporalcolumnmap-key-convert	post-loadcascade-removesubgraphfield-result
+attributesforeign-keyentityinverse-foreign-key	converterinheritancesubclass-subgraphresult-classcascade-allassociation-overrideconstructor-resultmap-key-class
+enumeratedresult-set-mappingpost-persistpackagemap-keygenerated-valuecascadeorder-byquerypost-updatemap-key-enumeratedhintentity-resultbasicone-to-manynamed-attribute-nodeexclude-superclass-listenersmap-key-foreign-keydiscriminator-columndescription	lock-mode
+join-tablecascade-refresh	parameter
+pre-updatecolumn-name
+pre-removeembedded-idmany-to-onexml-mapping-metadata-complete
+one-to-oneelement-collectionprimary-key-join-columnentity-listenersql-result-set-mappingcollection-tableexclude-default-listenersid-classinverse-join-column
+embeddableprimary-key-foreign-key°non-jta-data-sourcepersistence-unitproviderjar-filejta-data-sourceexclude-unlisted-classesmapping-filepropertypersistencedescriptionclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties°non-jta-data-sourcepersistence-unitproviderjar-filejta-data-sourceexclude-unlisted-classesmapping-filepropertypersistencedescriptionclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties√persistence-unitjar-fileexclude-unlisted-classesmapping-filedescriptionshared-cache-modenon-jta-data-sourceproviderjta-data-sourcepropertypersistencevalidation-modeclass
+properties2	namespacemarshalling-endpointsxpath-endpoints2	namespacemarshalling-endpointsxpath-endpointsUxsdstatic-wsdlpayloadRoot
+soapActiondynamic-wsdlannotation-driveninterceptorsUxsdstatic-wsdlpayloadRoot
+soapActiondynamic-wsdlannotation-driveninterceptors Gclass-to-be-boundjibx-marshallerjaxb2-marshallercastor-marshaller Gclass-to-be-boundjibx-marshallerjaxb2-marshallercastor-marshaller                                                                                         

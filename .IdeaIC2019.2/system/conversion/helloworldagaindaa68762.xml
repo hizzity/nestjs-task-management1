@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\IdeaProjects\helloworldagain\.idea\gradle.xml" timestamp="1566488050960" />
+    <file path="C:\Users\hizzi\IdeaProjects\helloworldagain\.idea\misc.xml" timestamp="1565883122668" />
+    <file path="C:\Users\hizzi\IdeaProjects\helloworldagain\.idea\workspace.xml" timestamp="1566488549515" />
+  </project-files>
+</conversion>
+

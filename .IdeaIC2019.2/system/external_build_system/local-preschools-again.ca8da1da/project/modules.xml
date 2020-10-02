@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/local-preschools-again.iml" filepath="$PROJECT_DIR$/.idea/modules/local-preschools-again.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/local-preschools-again.main.iml" filepath="$PROJECT_DIR$/.idea/modules/local-preschools-again.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/local-preschools-again.test.iml" filepath="$PROJECT_DIR$/.idea/modules/local-preschools-again.test.iml" />
+    </modules>
+  </component>
+</project>

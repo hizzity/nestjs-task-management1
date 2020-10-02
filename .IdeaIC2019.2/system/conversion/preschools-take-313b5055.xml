@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\gradle.xml" timestamp="1565876637600" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\misc.xml" timestamp="1565881925330" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\modules.xml" timestamp="1565803097074" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\uiDesigner.xml" timestamp="1565892261415" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\vcs.xml" timestamp="1565893099215" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\.idea\workspace.xml" timestamp="1565893121555" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\src\main\main.iml" timestamp="1565892481376" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\src\test\test.iml" timestamp="1565803096989" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,39 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.25694445" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6448864" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Thymeleaf" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="IJ_BASE_PACKAGE" value="org.launchcode" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="Gradle JVM:" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="186" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/lc101/html-me-something&#10;C:/Users/hizzi/Documents/LC101/html-me-something creative phases.txt&#10;C:/Users/hizzi/Documents/Liftoff/checking-settings&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Users/hizzi/Documents/Liftoff/preschools&#10;C:/Users/hizzi/IdeaProjects/techjobs-mvc&#10;C:/Users/hizzi/Documents/Liftoff/local-preschools-again/.idea&#10;C:/Users/hizzi/Documents/Liftoff/local-preschools-again&#10;C:/Users/hizzi/IdeaProjects/cheese-mvc-persistent-take2&#10;C:/Users/hizzi/Documents/Liftoff/testing-1-2-3&#10;C:/Users/hizzi/Liftoff/preschoolstake3&#10;C:/Users/hizzi/Documents/Liftoff/preschools-take-2/build.gradle&#10;C:/Users/hizzi/Liftoff&#10;C:/Users/hizzi/IdeaProjects/java-exercises&#10;C:/Users/hizzi/Documents/Liftoff/preschools-take-3/build.gradle&#10;C:/Users/hizzi/Documents/Liftoff/preschools-take-3/build&#10;C:/Users/hizzi/Documents/Liftoff/preschools-take-3/.gradle&#10;C:/Users/hizzi/Documents/Liftoff/preschools-take-3" />
+    <property name="file.gist.reindex.count" value="160" />
+    <property name="fileTypeChangedCounter" value="66" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.41-release-IJ2019.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_221" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.41-release-IJ2019.2-1:2019-07-03" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/Liftoff/checking-settings" />
+    <property name="lastTip" value="51" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1595370246018" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

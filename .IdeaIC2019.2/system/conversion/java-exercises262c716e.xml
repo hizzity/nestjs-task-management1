@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\libraries\commons_csv_1_4.xml" timestamp="1557334156988" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\misc.xml" timestamp="1565883512432" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\modules.xml" timestamp="1557334156868" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\uiDesigner.xml" timestamp="1557413786820" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\vcs.xml" timestamp="1557334156918" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\.idea\workspace.xml" timestamp="1565883761989" />
+    <file path="C:\Users\hizzi\IdeaProjects\java-exercises\java-exercises.iml" timestamp="1557334156683" />
+  </project-files>
+</conversion>
+

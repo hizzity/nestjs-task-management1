@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\.idea\libraries\commons_csv_1_4.xml" timestamp="1565884305727" />
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\.idea\misc.xml" timestamp="1565884305656" />
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\.idea\modules.xml" timestamp="1565884305696" />
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\.idea\vcs.xml" timestamp="1565884447164" />
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\.idea\workspace.xml" timestamp="1565886039747" />
+    <file path="C:\Users\hizzi\Liftoff\java-exercises\java-exercises.iml" timestamp="1565884305606" />
+  </project-files>
+</conversion>
+

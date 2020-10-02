@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/techjobs-mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/techjobs-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/techjobs-mvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/techjobs-mvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/techjobs-mvc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/techjobs-mvc.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,199 @@
+2019-08-15 10:40:11,825 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:40:11,826 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:40:13,376 [   1551]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1476 ms
+2019-08-15 10:40:13,899 [   2074]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:40:14,342 [   2517]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 443 ms
+2019-08-15 10:40:14,343 [   2518]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:40:14,542 [   2717]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:40:14,768 [   2943]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2019-08-15 10:40:14,776 [   2951]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:40:14,776 [   2951]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:40:14,779 [   2954]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:40:14,779 [   2954]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2a3957e5
+2019-08-15 10:40:14,797 [   2972]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2019-08-15 10:40:14,972 [   3147]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 28 ms
+2019-08-15 10:40:15,905 [   4080]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 713 ms
+2019-08-15 10:40:15,918 [   4093]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 730 ms
+2019-08-15 10:40:15,938 [   4113]   INFO - s.incremental.java.JavaBuilder - Compiling 38 java files; module: java-exercises
+2019-08-15 10:40:16,550 [   4725]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:40:17,300 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:40:17,302 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:40:18,074 [    774]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 649 ms
+2019-08-15 10:40:18,129 [    829]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:40:18,182 [    882]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:40:18,585 [   1285]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 403 ms
+2019-08-15 10:40:18,585 [   1285]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:40:18,692 [   1392]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:40:18,885 [   1585]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1592 ms
+2019-08-15 10:40:40,190 [  22890]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:40:40,194 [  22894]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:40:40,195 [  22895]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:40:40,199 [  22899]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:40:40,199 [  22899]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 595002d
+2019-08-15 10:40:40,273 [  22973]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-15 10:40:40,981 [  23681]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 669 ms
+2019-08-15 10:40:40,995 [  23695]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 685 ms
+2019-08-15 10:40:41,029 [  23729]   INFO - s.incremental.java.JavaBuilder - Compiling 38 java files; module: java-exercises
+2019-08-15 10:40:41,417 [  24117]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:40:41,436 [  24136]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:40:42,196 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:40:42,197 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:40:42,777 [    581]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 502 ms
+2019-08-15 10:40:42,806 [    610]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:40:42,893 [    697]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:40:43,158 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 265 ms
+2019-08-15 10:40:43,158 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:40:43,281 [   1085]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:40:43,452 [   1256]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1260 ms
+2019-08-15 10:41:18,111 [  35915]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:41:18,116 [  35920]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:41:18,117 [  35921]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:41:18,121 [  35925]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:41:18,121 [  35925]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 178e0838
+2019-08-15 10:41:18,212 [  36016]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-15 10:41:19,015 [  36819]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 755 ms
+2019-08-15 10:41:19,032 [  36836]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 775 ms
+2019-08-15 10:41:19,046 [  36850]   INFO - s.incremental.java.JavaBuilder - Compiling 38 java files; module: java-exercises
+2019-08-15 10:41:19,458 [  37262]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:41:19,472 [  37276]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:41:20,150 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:41:20,151 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:41:20,746 [    596]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 422 ms
+2019-08-15 10:41:20,767 [    617]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:41:20,835 [    685]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:41:21,122 [    972]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 287 ms
+2019-08-15 10:41:21,123 [    973]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:41:21,246 [   1096]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:41:21,395 [   1245]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1249 ms
+2019-08-15 10:42:01,441 [  41291]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:42:01,444 [  41294]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:42:01,444 [  41294]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:42:01,447 [  41297]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:42:01,447 [  41297]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ca25cc1
+2019-08-15 10:42:01,516 [  41366]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 1 ms
+2019-08-15 10:42:02,702 [  42552]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1149 ms
+2019-08-15 10:42:02,717 [  42567]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1165 ms
+2019-08-15 10:42:02,731 [  42581]   INFO - s.incremental.java.JavaBuilder - Compiling 38 java files; module: java-exercises
+2019-08-15 10:42:03,145 [  42995]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:42:03,155 [  43005]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:42:03,860 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:42:03,861 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:42:04,415 [    555]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 493 ms
+2019-08-15 10:42:04,437 [    577]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:42:04,510 [    650]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:42:04,757 [    897]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 247 ms
+2019-08-15 10:42:04,757 [    897]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:42:04,942 [   1082]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:42:05,123 [   1263]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1266 ms
+2019-08-15 10:42:15,904 [  12044]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:42:15,906 [  12046]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:42:15,906 [  12046]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:42:15,910 [  12050]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:42:15,910 [  12050]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7db8d2a8
+2019-08-15 10:42:15,990 [  12130]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2019-08-15 10:42:16,944 [  13084]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 891 ms
+2019-08-15 10:42:16,958 [  13098]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 910 ms
+2019-08-15 10:42:16,970 [  13110]   INFO - s.incremental.java.JavaBuilder - Compiling 38 java files; module: java-exercises
+2019-08-15 10:42:17,359 [  13499]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:42:17,370 [  13510]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:42:17,867 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:42:17,868 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:42:18,367 [    500]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 418 ms
+2019-08-15 10:42:18,390 [    523]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:42:18,466 [    599]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:42:18,728 [    861]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 262 ms
+2019-08-15 10:42:18,728 [    861]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:42:18,871 [   1004]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:42:19,023 [   1156]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1160 ms
+2019-08-15 10:42:42,121 [  24254]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:42:42,124 [  24257]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:42:42,124 [  24257]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:42:42,129 [  24262]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:42:42,129 [  24262]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d7e53022
+2019-08-15 10:42:42,193 [  24326]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-15 10:42:43,108 [  25241]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 877 ms
+2019-08-15 10:42:43,128 [  25261]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 897 ms
+2019-08-15 10:42:43,145 [  25278]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:42:56,931 [  39064]   INFO - kotlin.jps.build.KotlinBuilder - Compiled successfully
+2019-08-15 10:42:57,037 [  39170]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:42:57,048 [  39181]   INFO - s.incremental.java.JavaBuilder - Compiling 37 java files; module: java-exercises
+2019-08-15 10:42:57,469 [  39602]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:42:57,491 [  39624]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:42:58,741 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:42:58,742 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:42:59,335 [    594]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 485 ms
+2019-08-15 10:42:59,357 [    616]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:42:59,439 [    698]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/IdeaProjects/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:42:59,833 [   1092]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 394 ms
+2019-08-15 10:42:59,833 [   1092]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:42:59,964 [   1223]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:43:00,131 [   1390]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1392 ms
+2019-08-15 10:43:43,794 [  45053]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-15 10:52:51,021 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:52:51,022 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:52:51,612 [    591]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 529 ms
+2019-08-15 10:52:51,990 [    969]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/Liftoff/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:52:52,394 [   1373]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 404 ms
+2019-08-15 10:52:52,394 [   1373]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:52:52,570 [   1549]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:52:52,802 [   1781]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2019-08-15 10:52:52,807 [   1786]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:52:52,807 [   1786]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:52:52,808 [   1787]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:52:52,808 [   1787]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f812e79a
+2019-08-15 10:52:52,828 [   1807]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2019-08-15 10:52:52,970 [   1949]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2019-08-15 10:52:53,840 [   2819]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 748 ms
+2019-08-15 10:52:53,850 [   2829]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 761 ms
+2019-08-15 10:52:53,876 [   2855]   INFO - s.incremental.java.JavaBuilder - Compiling 18 java files; module: java-exercises
+2019-08-15 10:52:55,109 [   4088]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 1 s 115 ms; 18 sources processed (61 ms per file)
+2019-08-15 10:52:55,111 [   4090]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:52:56,225 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:52:56,226 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:52:57,018 [    793]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 685 ms
+2019-08-15 10:52:57,068 [    843]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:52:57,163 [    938]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/Liftoff/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:52:57,480 [   1255]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 317 ms
+2019-08-15 10:52:57,480 [   1255]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:52:57,576 [   1351]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:52:57,743 [   1518]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1521 ms
+2019-08-15 10:52:57,901 [   1676]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-15 10:55:56,336 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:55:56,336 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:55:57,122 [    786]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 677 ms
+2019-08-15 10:55:57,492 [   1156]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/Liftoff/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:55:57,928 [   1592]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 436 ms
+2019-08-15 10:55:57,928 [   1592]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:55:58,120 [   1784]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:55:58,370 [   2034]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-15 10:55:58,374 [   2038]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2019-08-15 10:55:58,374 [   2038]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2019-08-15 10:55:58,378 [   2042]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-15 10:55:58,378 [   2042]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e855dc5c
+2019-08-15 10:55:58,509 [   2173]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-15 10:55:59,741 [   3405]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1069 ms
+2019-08-15 10:55:59,761 [   3425]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1094 ms
+2019-08-15 10:55:59,778 [   3442]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: java-exercises
+2019-08-15 10:56:00,598 [   4262]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-15 10:56:00,700 [   4364]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 799 ms; 1 sources processed (799 ms per file)
+2019-08-15 10:56:00,704 [   4368]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_221 was used to compile [java-exercises]
+2019-08-15 10:56:01,575 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 10:56:01,575 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 10:56:02,333 [    758]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 654 ms
+2019-08-15 10:56:02,355 [    780]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 10:56:02,437 [    862]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/Liftoff/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 10:56:02,852 [   1277]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 415 ms
+2019-08-15 10:56:02,856 [   1281]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 10:56:03,023 [   1448]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 10:56:03,275 [   1700]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1702 ms
+2019-08-15 11:20:39,953 [1478378]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-08-15 11:20:40,739 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-15 11:20:40,740 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.2/plugins/java/lib/jps-launcher.jar;C:/Program Files (x86)/Java/jdk1.8.0_221/lib/tools.jar
+2019-08-15 11:20:41,270 [    531]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 451 ms
+2019-08-15 11:20:41,290 [    551]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-08-15 11:20:41,356 [    617]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/hizzi/Liftoff/java-exercises, global options path = C:/Users/hizzi/.IdeaIC2019.2/config/options
+2019-08-15 11:20:41,657 [    918]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 301 ms
+2019-08-15 11:20:41,658 [    919]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2019-08-15 11:20:41,764 [   1025]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=656
+2019-08-15 11:20:41,937 [   1198]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1200 ms
+2019-08-15 11:28:37,436 [ 476697]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

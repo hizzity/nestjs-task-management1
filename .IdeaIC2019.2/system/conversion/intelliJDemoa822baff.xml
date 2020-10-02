@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\.idea\encodings.xml" timestamp="1565886853275" />
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\.idea\misc.xml" timestamp="1565886853229" />
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\.idea\modules.xml" timestamp="1565886853295" />
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\.idea\project-template.xml" timestamp="1565886824103" />
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\.idea\workspace.xml" timestamp="1565887091225" />
+    <file path="C:\Users\hizzi\Liftoff\intelliJDemo\intelliJDemo.iml" timestamp="1565886824134" />
+  </project-files>
+</conversion>
+

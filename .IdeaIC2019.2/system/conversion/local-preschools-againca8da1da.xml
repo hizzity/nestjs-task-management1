@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Documents\Liftoff\local-preschools-again\.idea\gradle.xml" timestamp="1566489030492" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\local-preschools-again\.idea\misc.xml" timestamp="1565894155249" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\local-preschools-again\.idea\uiDesigner.xml" timestamp="1565902873337" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\local-preschools-again\.idea\vcs.xml" timestamp="1566504077534" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\local-preschools-again\.idea\workspace.xml" timestamp="1566832407954" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Documents\Liftoff\testing-1-2-3\.idea\gradle.xml" timestamp="1566913142412" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\testing-1-2-3\.idea\misc.xml" timestamp="1565895794339" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\testing-1-2-3\.idea\uiDesigner.xml" timestamp="1565896031952" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\testing-1-2-3\.idea\workspace.xml" timestamp="1566915148458" />
+  </project-files>
+</conversion>
+

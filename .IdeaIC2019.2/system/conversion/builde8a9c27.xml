@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\build\.idea\build.iml" timestamp="1565882330390" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\build\.idea\modules.xml" timestamp="1565882330436" />
+    <file path="C:\Users\hizzi\Documents\Liftoff\preschools-take-3\build\.idea\workspace.xml" timestamp="1565882622824" />
+  </project-files>
+</conversion>
+
